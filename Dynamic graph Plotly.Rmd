@@ -1,7 +1,7 @@
 ---
-title: "Dynamic Graphs in R Plotly"
+title: "Dynamic Graphs in R Plotly library"
 author: "Eralda Gjika"
-subtitle: Week 2 Data Science TEC Course
+subtitle: plot_ly
 output:
   html_notebook: default
   pdf_document: default
